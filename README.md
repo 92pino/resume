@@ -1,7 +1,7 @@
 정진배 (Pino)
 ================
 
-# Developer # iOS # Swift # Junior #Pino's Creative Factory😀
+#### Developer #### iOS #### Swift #### Junior #### Pino's Creative Factory😀
 
 * Email: [jjb8382@gmail.com](mailto://jjb8382@gmail.com)
 * Blog: [92pino.github.io](http://92pino.github.io)
