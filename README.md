@@ -1,4 +1,4 @@
-정진배 (Pino)
+정진배 - (Pino)
 ================
 
 ### Pino's Creative Factory😀
