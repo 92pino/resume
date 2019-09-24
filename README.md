@@ -22,8 +22,8 @@
 **SungsuHack (성수핵)**
 
 >  성수 근처 감성 카페 리스트
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) Video Label
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Rzkk7k9iwK0&feature=share" frameborder="0" allowfullscreen></iframe>
+
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=Rzkk7k9iwK0&feature=share)
 
 20190520 - 해커톤 기획 시작 ~ 20190524 - 프로젝트 완료 및 발표
 
