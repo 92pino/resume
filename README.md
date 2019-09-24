@@ -23,8 +23,8 @@
 
 >  성수 근처 감성 카페 리스트
 
-[![Video Label](https://user-images.githubusercontent.com/45158632/65492347-b3660800-deeb-11e9-80a3-b5bf76244cf0.PNG)](https://www.youtube.com/watch?v=Rzkk7k9iwK0&feature=share?t=6s)
-![main](https://user-images.githubusercontent.com/45158632/65492539-135cae80-deec-11e9-8a91-6af9ddaeb92d.PNG)
+[![Video Label](https://user-images.githubusercontent.com/45158632/65492347-b3660800-deeb-11e9-80a3-b5bf76244cf0.PNG){: width="25%"}](https://www.youtube.com/watch?v=Rzkk7k9iwK0&feature=share?t=6s)
+![main](https://user-images.githubusercontent.com/45158632/65492539-135cae80-deec-11e9-8a91-6af9ddaeb92d.PNG){: width="25%"}
 
 20190520 - 해커톤 기획 시작 ~ 20190524 - 프로젝트 완료 및 발표
 
