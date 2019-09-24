@@ -23,7 +23,7 @@
 
 >  성수 근처 감성 카페 리스트
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=Rzkk7k9iwK0&feature=share)
+[![Video Label](https://user-images.githubusercontent.com/45158632/65492347-b3660800-deeb-11e9-80a3-b5bf76244cf0.PNG)](https://www.youtube.com/watch?v=Rzkk7k9iwK0&feature=share?ts=6s)
 
 20190520 - 해커톤 기획 시작 ~ 20190524 - 프로젝트 완료 및 발표
 
