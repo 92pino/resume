@@ -59,7 +59,20 @@
 **Travelog**
 
 > 여행 기록 어플
+개요 : 여행 기록을 감성적인 사진과 함께 기록해 추억을 돌아보게 하는 사진 기록 어플
+참여 인원 : iOS 2명
+구현 부분
+- SK open API의 JSON data 를 parsing 하여 날씨 정보를 사용함
+- CoreData 를 활용하여 데이터 베이스 구현
+- MapView를 활용하여 위치정보를 저장 할 수 있
+
+- 사용기술 - Swift, CoreData, YPImagePicker
 
 **Yanolja Copy App**
 
 > 야놀자 클론 앱
+개요 : 기존 야놀자 앱 서비스를 기반으로 같은 형태의 서비스를 만들어보는 클론 프로젝트
+개발 기간 : 2019.07.01 - 08.09
+참여 인원 : iOS 3명, 백 엔드 3명, 프론트 엔드 4명
+구현 기능 : 내 주변 숙소 리스트, 숙소 검색 기능, 숙소 예약 서비스
+Github Link : https://github.com/final-project-yanolja/iOS_Team
